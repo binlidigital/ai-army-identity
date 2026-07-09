@@ -10,9 +10,9 @@
 
 <p align="center">
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-Apache%202.0-blue.svg" alt="License"/></a>
-  <a href="https://github.com/your-org/ai-army-identity/releases"><img src="https://img.shields.io/github/v/release/your-org/ai-army-identity" alt="Release"/></a>
-  <a href="https://github.com/your-org/ai-army-identity/stargazers"><img src="https://img.shields.io/github/stars/your-org/ai-army-identity" alt="Stars"/></a>
-  <a href="https://github.com/your-org/ai-army-identity/discussions"><img src="https://img.shields.io/badge/chat-discussions-ff69b4" alt="Discussions"/></a>
+  <a href="https://github.com/binlidigital/ai-army-identity/releases"><img src="https://img.shields.io/github/v/release/binlidigital/ai-army-identity" alt="Release"/></a>
+  <a href="https://github.com/binlidigital/ai-army-identity/stargazers"><img src="https://img.shields.io/github/stars/binlidigital/ai-army-identity" alt="Stars"/></a>
+  <a href="https://github.com/binlidigital/ai-army-identity/discussions"><img src="https://img.shields.io/badge/chat-discussions-ff69b4" alt="Discussions"/></a>
 </p>
 
 ---
@@ -91,7 +91,7 @@ AI Army Identity 解决的问题：
 
 ```bash
 # 1. 下载skill包
-git clone https://github.com/your-org/ai-army-identity.git
+git clone https://github.com/binlidigital/ai-army-identity.git
 
 # 2. 加载核心skill
 hermes skill install ai-army-identity/skills/ai-army-identity.skill.md
@@ -161,7 +161,7 @@ Apache 2.0 License. 详见 [LICENSE](LICENSE)。
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=your-org/ai-army-identity&type=Date)](https://star-history.com/#your-org/ai-army-identity&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=binlidigital/ai-army-identity&type=Date)](https://star-history.com/#binlidigital/ai-army-identity&Date)
 
 ---
 
