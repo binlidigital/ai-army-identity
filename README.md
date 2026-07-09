@@ -168,5 +168,5 @@ Apache 2.0 License. 详见 [LICENSE](LICENSE)。
 <p align="center">
   <sub>从一个人的想法，到一个团队的执行。</sub>
   <br/>
-  <sub>Built with ❤️ by 阎先生 & AI军团</sub>
+  <sub>Built with ❤️ by the team</sub>
 </p>
