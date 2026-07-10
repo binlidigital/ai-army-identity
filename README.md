@@ -60,6 +60,8 @@ AI Army Identity 解决的问题：
 
 ## 👥 组织架构
 
+<img src="assets/架构.png" alt="AI Army Organization" width="100%"/>
+
 ```
                  ┌───────────────┐
                  │  指挥官 (萧总)  │
