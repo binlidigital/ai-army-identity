@@ -9,10 +9,13 @@
 </p>
 
 <p align="center">
+  <img src="assets/横幅.png" alt="AI Army Identity Banner" width="100%"/>
+</p>
+
+<p align="center">
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-Apache%202.0-blue.svg" alt="License"/></a>
-  <a href="https://github.com/binlidigital/ai-army-identity/releases"><img src="https://img.shields.io/github/v/release/binlidigital/ai-army-identity" alt="Release"/></a>
   <a href="https://github.com/binlidigital/ai-army-identity/stargazers"><img src="https://img.shields.io/github/stars/binlidigital/ai-army-identity" alt="Stars"/></a>
-  <a href="https://github.com/binlidigital/ai-army-identity/discussions"><img src="https://img.shields.io/badge/chat-discussions-ff69b4" alt="Discussions"/></a>
+  <a href="https://github.com/binlidigital/ai-army-identity/network/members"><img src="https://img.shields.io/github/forks/binlidigital/ai-army-identity" alt="Forks"/></a>
 </p>
 
 ---
