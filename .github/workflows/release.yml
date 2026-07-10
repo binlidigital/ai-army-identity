@@ -1,0 +1,25 @@
+name: Create Release
+
+on:
+  push:
+    tags:
+      - "v*"
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: softprops/action-gh-release@v2
+        with:
+          body: |
+            ## v1.0.0 — Initial Release
+
+            AI Army Identity — 人机共生组织操作系统
+
+            - 身份映射框架 + 决策复盘框架
+            - 6大中心 + 8个AI成员
+            - Apache 2.0 License
+          make_latest: true
