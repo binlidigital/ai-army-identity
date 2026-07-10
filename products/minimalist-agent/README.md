@@ -1,4 +1,12 @@
-# Minimalist Agent · 极简AI技能
+<p align="center">
+  <img src="logo.png" alt="Minimalist Agent" width="300"/>
+</p>
+
+<h1 align="center">Minimalist Agent · 极简AI技能</h1>
+
+<p align="center">
+  <img src="对比图.png" alt="Before vs After" width="100%"/>
+</p>
 
 > 改编自 [caveman](https://github.com/JuliusBrussee/caveman)（87K⭐）
 > 核心理念：**用最少的token做最多的事**
